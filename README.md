@@ -12,8 +12,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Procedure :
 ```
-NAME:Priyanka S
-REG NO:212224040255
+NAME:HARISH S
+REG NO:212224040105
 
 ```
 
